@@ -19,7 +19,7 @@ const ExpensesList = (props) => {
 
   const deleteExpense = (deletedItem) => {
     const newExpenses = props.items.filter((expense) => {
-      return expense.title !== deletedItem;
+      return expense.id !== deletedItem;
     });
 
     props.deletedExpense(newExpenses);
