@@ -26,7 +26,6 @@ const DUMMY_EXEPESES = [
 
 const App = () => {
   const [expenses, setExpenses] = useState(DUMMY_EXEPESES);
-  console.log("commit test PINGGGGGGGGGG");
   const addExpenseHandler = (expense) => {
     setExpenses((prevExpenses) => {
       return [expense, ...prevExpenses];
