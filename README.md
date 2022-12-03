@@ -18,5 +18,15 @@ Created a delete expense button which deletes the expense object from the expens
 
 ![image](https://user-images.githubusercontent.com/80704302/205447983-d762d90f-1086-4570-9956-bf7a09b2feee.png)
 
+Added a New Expense form which can be hidden or shown
+
+Hidden: 
+
+![image](https://user-images.githubusercontent.com/80704302/205448071-c34c5df6-1a65-4516-af9a-ea51f0dc7d00.png)
+
+Shown: 
+
+![image](https://user-images.githubusercontent.com/80704302/205448107-bba24d60-67ed-4e1d-a039-443297dedb57.png)
+
 
 As well as working with a lot of JSX and it's concepts.
