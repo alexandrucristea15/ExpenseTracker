@@ -2,7 +2,7 @@
 
 I used this project to develope my React.js basics
 
-Working with state and props as this are 2 of the core concepts of react
+Working with state and props as this are 2 of the core concepts of react. 
 Working with date formats for the expenses date component
 ![image](https://user-images.githubusercontent.com/80704302/205447859-db45b1d2-f0b3-4054-85bc-43a71bfc7726.png)
 
